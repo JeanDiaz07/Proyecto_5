@@ -1,6 +1,6 @@
 # Proyecto Comercio electronico
 ## MySneaker
-## Descripcion
+### Descripcion
 ## Tecnologias
 - React
 - MongoDb
@@ -11,5 +11,8 @@
 - Bootstrap
 ## Imagen
 ## Url
+[https://jeandiaz07.github.io/Proyecto_5/
+
 ## Creador
+Jean Diaz Retamal
 
