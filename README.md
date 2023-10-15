@@ -1,4 +1,10 @@
-# React + Vite
+# Proyecto Comercio electronico
+## MySneaker
+## Descripcion
+## Tecnologias
+## Imagen
+## Url
+## Creador
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
