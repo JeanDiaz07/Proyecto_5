@@ -30,12 +30,22 @@ background: linear-gradient(90deg, rgba(255,244,12,1) 15%, rgba(249,247,101,1) 5
 color: white;
 display: flex;
 }
-footer div{
 
-display: inline;
+footer .logo{
+width: 30%;
 
 
+}
+footer .info{
 
+width: 60%;
+height: auto;
+display: flex;
+
+}
+footer .info a{
+    text-decoration: none;
+    color: black;
 }
 footer div section{
 
