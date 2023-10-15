@@ -11,7 +11,7 @@
 - Bootstrap
 ## Imagen
 ## Url
-[https://jeandiaz07.github.io/Proyecto_5/
+https://jeandiaz07.github.io/Proyecto_5/
 
 ## Creador
 Jean Diaz Retamal
