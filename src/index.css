@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'Striker';
+    src: url(../src/assets/Tipografia/striker_3/Striker.ttf) format('truetype');
+  font-style: normal;
+  font-weight: normal;
+  }
+
+
 header{
 width: 95.5%;
 height: 40%;
@@ -7,6 +15,11 @@ background-position: 100% 150%;
 color: white;
 padding: 3%;
 margin: -1%;
+}
+header h1{
+font-family: 'Striker';
+font-size: 350%;
+
 }
 #root{
 width: 100%;
@@ -33,7 +46,7 @@ display: flex;
 
 footer .logo{
 width: 30%;
-
+font-family:'Striker' ;
 
 }
 footer .info{
@@ -41,6 +54,16 @@ footer .info{
 width: 60%;
 height: auto;
 display: flex;
+
+gap: 5%;
+}
+footer .info h5{
+color: black;
+text-align: center;
+}
+footer .info li{
+
+list-style: none;
 
 }
 footer .info a{
@@ -52,6 +75,5 @@ footer div section{
 
     display: block;
     justify-content: center;
-
 
 }
