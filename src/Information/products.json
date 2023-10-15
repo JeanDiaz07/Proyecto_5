@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Book",
+      "price": 10,
+      "imgUrl": "./../public/ 90.jpg"
+    },
+    {
+      "id": 2,
+      "name": "laptop",
+      "price": 800,
+      "imgUrl": "./public/97.jpg"
+    },
+    {
+      "id": 3,
+      "name": "tv",
+      "price": 400,
+      "imgUrl": "./public/chicago.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Washer",
+      "price": 550,
+      "imgUrl": "./public/Jordan.jpg"
+    }
+  ]

@@ -1,17 +1,16 @@
 import { Routes, Route } from "react-router"
-
-import { BrowserRouter } from "react-router-dom"
 import Navegacion from "../Components/Navegacion"
 import { Home } from "../Pages/Home"
 import { List } from "../Pages/List"
 import { Contacto } from "../Pages/Contacto"
+import { ShoppingCartProvider } from "../Context/CarritoContext"
 
 
 export const AppRouter = () => {
 
 return(
 <>
-
+<ShoppingCartProvider>
 <nav>
 <Routes>
 
@@ -22,7 +21,7 @@ return(
 </Route>
 </Routes>
 </nav>
-
+</ShoppingCartProvider>
 
 </>
 )
