@@ -1,14 +1,10 @@
 import Carrusel from "../Components/Carrusel"
 
 
-
-
-
-
-export const Home = () =>{
+ export function Home() {
 return(
 
-
+<>
 
 <div className="">
 <Carrusel/>
@@ -40,9 +36,8 @@ En los primerísimos modelos de Supergrip no se añadió este refuerzo. Fueron l
 
 
 
-
+</>
 
 );
 
 }
-export default Home

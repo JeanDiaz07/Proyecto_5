@@ -1,26 +1,26 @@
 [
     {
       "id": 1,
-      "name": "Book",
-      "price": 10,
+      "name": "zapatilla1",
+      "price": 100000,
       "imgUrl": "./../public/ 90.jpg"
     },
     {
       "id": 2,
-      "name": "laptop",
-      "price": 800,
+      "name": "zapatilla2",
+      "price": 180000,
       "imgUrl": "./public/97.jpg"
     },
     {
       "id": 3,
-      "name": "tv",
-      "price": 400,
+      "name": "zapatilla3",
+      "price": 140000,
       "imgUrl": "./public/chicago.jpg"
     },
     {
       "id": 4,
-      "name": "Washer",
-      "price": 550,
+      "name": "zapatilla4",
+      "price": 155000,
       "imgUrl": "./public/Jordan.jpg"
     }
   ]
