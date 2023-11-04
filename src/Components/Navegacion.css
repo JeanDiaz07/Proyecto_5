@@ -1,0 +1,19 @@
+.Navbar{
+    
+        width: 100%;
+        
+        background-color: rgb(253, 203, 37);
+        padding: 2% 30% 2% 32%;
+display: flex;
+        gap: 15%;
+       
+    }
+
+.Navbar .Link{
+
+    color: black;
+    font-size: 17px;
+        text-decoration: none;
+        font-size: 20px;
+       
+}

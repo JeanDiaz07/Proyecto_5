@@ -5,6 +5,15 @@ import React from 'react'
 
 export const List = () => {
   return (
-    <div>List</div>
+    <>
+    <div>
+    <h1>Lista de zapatillas</h1>
+
+
+
+    </div>
+    
+    
+    </>
   )
 }

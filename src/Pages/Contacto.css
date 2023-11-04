@@ -1,0 +1,28 @@
+.Contacto{
+width: 100%;
+height: auto;
+padding: 2%;
+
+}
+.Contacto div{
+    width: 90%;
+display: flex;
+gap: 5 ;
+
+
+}
+.DatosContacto{
+
+    width: 50%;
+    height: auto;
+    
+}
+.DatosContacto section{
+    
+   
+display: block;
+
+
+
+
+}

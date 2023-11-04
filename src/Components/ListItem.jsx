@@ -1,6 +1,7 @@
 import React from "react";
-import storeItems from "../information/products.json";
+import storeItems from '../Information/products';
 import { Item } from "./Item";
+
 
 export const ListItem = () => {
   return (
